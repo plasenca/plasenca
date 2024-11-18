@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Astro**
 
-- 👨‍💻 All of my projects are available at [https://plasenca.me](https://plasenca.com)
+- 👨‍💻 All of my projects are available at [https://plasenca.com](https://plasenca.com)
 
 - 📝 I regularly write articles on [https://blog.plasenca.me](https://blog.plasenca.me)
 
