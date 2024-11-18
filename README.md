@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plasenca" alt="plasenca" /></a> </p>
 
-- 🔭 I’m currently working on **Maximum**
+- 🔭 I’m currently working on **Threads Clone Backend**
 
-- 🌱 I’m currently learning **ArgoCD and Jenkins**
+- 🌱 I’m currently learning **Astro**
 
-- 👨‍💻 All of my projects are available at [https://plasenca.me](https://plasenca.me)
+- 👨‍💻 All of my projects are available at [https://plasenca.me](https://plasenca.com)
 
 - 📝 I regularly write articles on [https://blog.plasenca.me](https://blog.plasenca.me)
 
-- 💬 Ask me about **React, Flutter, Nestjs**
+- 💬 Ask me about **React, Flutter, Nestjs, Nodejs**
 
 - 📫 How to reach me **franzua.15pc@gmail.com**
 
